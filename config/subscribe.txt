@@ -2,6 +2,8 @@
 # This is a list of subscription sources, with one subscription address per line
 
 http://iptv.4666888.xyz/FYTV.m3u
+https://gitee.com/zhanghuan12345/my-live/raw/master/jxdx
+https://gitee.com/zhanghuan12345/play/raw/master/jxyd
 https://d.kstore.dev/download/15114/TVSolo.txt
 https://gitee.com/junchao321/migu_video/raw/main/interface.txt
 https://files.catbox.moe/dt9svf.txt
