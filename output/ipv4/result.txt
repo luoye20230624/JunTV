@@ -1,177 +1,121 @@
 🕘️更新时间,#genre#
-2025-09-12 11:47:59,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=1b3fcaebe0459e7ca2876c2d5493cfac&txTime=18d047b699e
+2025-09-12 18:21:49,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=a484293b0e6036fb053179bdffaf7127&txTime=18e0d9e3c22
 
 🍄┃广东频道,#genre#
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=1b3fcaebe0459e7ca2876c2d5493cfac&txTime=18d047b699e
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=a484293b0e6036fb053179bdffaf7127&txTime=18e0d9e3c22
 广东珠江,http://163.142.186.56:9901/tsfile/live/1018_1.m3u8
-广东卫视,https://live.tv.darwinchow.com/channel/guangdongweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-广东卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225957/10000100000000060000000000913519_0.smil
-深圳卫视,https://live.tv.darwinchow.com/channel/shenzhenweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-深圳卫视,http://php.cqshushu.ggff.net/jzb.php?id=szws&公众号【医工学习日志】
+广东卫视,https://live.tv.darwinchow.com/channel/guangdongweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-深圳卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225764/10000100000000060000000000913503_0.smil
+深圳卫视,https://live.tv.darwinchow.com/channel/shenzhenweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 纪实人文,http://8.138.7.223/tv/shtv.php?id=xjs
 金鹰纪实,https://live.tv.darwinchow.com/channel/jinyingjishi?livekey=01WVAWIUhZtD6WsM2HNJQE8YN6rjN0V0oy0IY&userkey=c34a17e0469d52f6
 金鹰纪实,http://8.138.7.223/tv/mgtv.php
-金鹰纪实,rtsp://115.153.247.80/PLTV/88888888/224/3221226823/59781863.smil
 超级综艺,http://111.43.126.240:9003/hls/87/index.m3u8
 
 🍓┃央视频道,#genre#
 CCTV-1,https://live.tv.darwinchow.com/channel/cctv1?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 CCTV-1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
-CCTV-1,rtsp://115.153.247.80/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 CCTV-2,https://live.tv.darwinchow.com/channel/cctv2?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 CCTV-2,http://171.15.18.199:8180/TV00000000000000000002@HHZT
-CCTV-2,rtsp://115.153.247.80/PLTV/88888888/224/3221226825/59814584.smil
 CCTV-3,http://php.cqshushu.ggff.net/jzb.php?id=cctv3&公众号【医工学习日志】
 CCTV-3,https://live.tv.darwinchow.com/channel/cctv3?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 CCTV-3,http://171.15.18.199:8180/TV00000000000000000003@HHZT
-CCTV-3,rtsp://115.153.247.80/PLTV/88888888/224/3221226930/65406412.smil
-CCTV-4,http://php.cqshushu.ggff.net/jzb.php?id=cctv4&公众号【医工学习日志】
 CCTV-4,https://live.tv.darwinchow.com/channel/cctv4?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
+CCTV-4,http://php.cqshushu.ggff.net/jzb.php?id=cctv4&公众号【医工学习日志】
 CCTV-4,http://171.15.18.199:8180/TV00000000000000000004@HHZT
-CCTV-4,rtsp://115.153.247.80/PLTV/88888888/224/3221226838/59814684.smil
 CCTV-5,http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】
 CCTV-5,https://live.tv.darwinchow.com/channel/cctv5?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 CCTV-5,http://171.15.18.199:8180/TV00000000000000000005@HHZT
-CCTV-5,rtsp://115.153.247.80/PLTV/88888888/224/3221226907/65396401.smil
-CCTV-5+,https://live.tv.darwinchow.com/channel/cctv5p?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
+CCTV-5+,https://live.tv.darwinchow.com/channel/cctv5p?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 CCTV-6,http://php.cqshushu.ggff.net/jzb.php?id=cctv6&公众号【医工学习日志】
 CCTV-6,https://live.tv.darwinchow.com/channel/cctv6?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 CCTV-6,http://171.15.18.199:8180/TV00000000000000000006@HHZT
-CCTV-6,rtsp://115.153.247.80/PLTV/88888888/224/3221226909/65396493.smil
 CCTV-7,http://php.cqshushu.ggff.net/jzb.php?id=cctv7&公众号【医工学习日志】
 CCTV-7,https://live.tv.darwinchow.com/channel/cctv7?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 CCTV-7,http://171.15.18.199:8180/TV00000000000000000007@HHZT
-CCTV-7,rtsp://115.153.247.80/PLTV/88888888/224/3221226827/59814693.smil
 CCTV-8,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
 CCTV-8,https://live.tv.darwinchow.com/channel/cctv8?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 CCTV-8,http://171.15.18.199:8180/TV00000000000000000008@HHZT
-CCTV-8,rtsp://115.153.247.80/PLTV/88888888/224/3221226911/65406606.smil
 CCTV-9,http://php.cqshushu.ggff.net/jzb.php?id=cctv9&公众号【医工学习日志】
 CCTV-9,https://live.tv.darwinchow.com/channel/cctv9?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 CCTV-9,http://171.15.18.199:8180/TV00000000000000000009@HHZT
-CCTV-9,rtsp://115.153.247.80/PLTV/88888888/224/3221226840/59814699.smil
 CCTV-10,http://php.cqshushu.ggff.net/jzb.php?id=cctv10&公众号【医工学习日志】
 CCTV-10,https://live.tv.darwinchow.com/channel/cctv10?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 CCTV-10,http://171.15.18.199:8180/TV00000000000000000010@HHZT
-CCTV-10,rtsp://115.153.247.80/PLTV/88888888/224/3221226630/51813372.smil
 CCTV-11,http://php.cqshushu.ggff.net/jzb.php?id=cctv11&公众号【医工学习日志】
-CCTV-11,https://live.tv.darwinchow.com/channel/cctv11?livekey=01WVAWIUhZtD6WsM2HNJQE8YN6rjN0V0oy0IY&userkey=c34a17e0469d52f6
+CCTV-11,https://live.tv.darwinchow.com/channel/cctv11?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 CCTV-11,http://171.15.18.199:8180/TV00000000000000000011@HHZT
-CCTV-11,rtsp://115.153.247.80/PLTV/88888888/224/3221226986/85722616.smil
 CCTV-12,http://php.cqshushu.ggff.net/jzb.php?id=cctv12&公众号【医工学习日志】
 CCTV-12,https://live.tv.darwinchow.com/channel/cctv12?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 CCTV-12,http://171.15.18.199:8180/TV00000000000000000012@HHZT
-CCTV-12,rtsp://115.153.247.80/PLTV/88888888/224/3221226829/59814709.smil
-CCTV-13,https://live.tv.darwinchow.com/channel/cctv13?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
+CCTV-13,https://live.tv.darwinchow.com/channel/cctv13?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://171.15.18.199:8180/TV00000000000000000013@HHZT
-CCTV-13,rtsp://115.153.247.80/PLTV/88888888/224/3221227037/87447722.smil
 CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】
 CCTV-14,https://live.tv.darwinchow.com/channel/cctv14?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT
-CCTV-14,rtsp://115.153.247.80/PLTV/88888888/224/3221226634/51813368.smil
 CCTV-15,https://live.tv.darwinchow.com/channel/cctv15?livekey=01WVAWIUhZtD6WsM2HNJQE8YN6rjN0V0oy0IY&userkey=c34a17e0469d52f6
 CCTV-15,http://171.15.18.199:8180/TV00000000000000000015@HHZT
-CCTV-15,rtsp://115.153.247.80/PLTV/88888888/224/3221226988/85722541.smil
-CCTV-16,https://live.tv.darwinchow.com/channel/cctv16?livekey=01WVAWIUhZtD6WsM2HNJQE8YN6rjN0V0oy0IY&userkey=c34a17e0469d52f6
+CCTV-16,https://live.tv.darwinchow.com/channel/cctv16?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 CCTV-16,http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
-CCTV-16,rtsp://115.153.247.80/PLTV/88888888/224/3221227051/92603106.smil#rtsp://115.153.247.80/PLTV/88888888/224/3221225613/iptv7997.smil
 CCTV-17,http://php.cqshushu.ggff.net/jzb.php?id=cctv17&公众号【医工学习日志】
 CCTV-17,https://live.tv.darwinchow.com/channel/cctv17?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-CCTV-17,rtsp://115.153.247.80/PLTV/88888888/224/3221226846/61397282.smil
-CETV-1,rtsp://115.153.247.80/PLTV/88888888/224/3221226858/63768493.smil
-CETV-2,rtsp://115.153.247.80/PLTV/88888888/224/3221226978/85722625.smil
-CETV-4,rtsp://115.153.247.80/PLTV/88888888/224/3221226905/65242632.smil
 
 🐧┃卫视频道,#genre#
-东方卫视,https://live.tv.darwinchow.com/channel/dongfangweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
+东方卫视,https://live.tv.darwinchow.com/channel/dongfangweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 东方卫视,http://8.138.7.223/tv/shtv.php
-东方卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225770/10000100000000060000000000913526_0.smil
-浙江卫视,https://live.tv.darwinchow.com/channel/zhejiangweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil
+浙江卫视,https://live.tv.darwinchow.com/channel/zhejiangweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 湖南卫视,https://live.tv.darwinchow.com/channel/hunanweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-湖南卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225697/iptv8039.smil
 江苏卫视,https://live.tv.darwinchow.com/channel/jiangsuweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-江苏卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225766/10000100000000060000000000913517_0.smil
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-北京卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225546/iptv51912.smil
+北京卫视,https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 湖北卫视,https://live.tv.darwinchow.com/channel/hubeiweishi?livekey=01WVAWIUhZtD6WsM2Glx36ENBAwzRIPfnGXif&userkey=c34a17e0469d52f6
-湖北卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225827/10000100000000060000000000470332_2.smil
 黑龙江卫视,https://live.tv.darwinchow.com/channel/heilongjiangweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-黑龙江卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225584/10000100000000060000000000031778_0.smil
 安徽卫视,https://live.tv.darwinchow.com/channel/anhuiweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-安徽卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226622/51176344.smil
 重庆卫视,https://live.tv.darwinchow.com/channel/chongqingweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-重庆卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226638/51813388.smil
-东南卫视,https://live.tv.darwinchow.com/channel/dongnanweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-东南卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226677/51176347.smil
+东南卫视,https://live.tv.darwinchow.com/channel/dongnanweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 甘肃卫视,https://live.tv.darwinchow.com/channel/gansuweishi?livekey=01WVAWIUhZtD6WsM2HNJQE8YN6rjN0V0oy0IY&userkey=c34a17e0469d52f6
-甘肃卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221227039/87447727.smil
-广西卫视,https://live.tv.darwinchow.com/channel/guangxiweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-广西卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226954/71778425.smil
-贵州卫视,https://live.tv.darwinchow.com/channel/guizhouweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-贵州卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221226833/59814738.smil
+广西卫视,https://live.tv.darwinchow.com/channel/guangxiweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
+贵州卫视,https://live.tv.darwinchow.com/channel/guizhouweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php
-海南卫视,https://live.tv.darwinchow.com/channel/hainanweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-海南卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226933/70442779.smil
-河北卫视,https://live.tv.darwinchow.com/channel/hebeiweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-河北卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226821/59781859.smil
+海南卫视,https://live.tv.darwinchow.com/channel/hainanweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
+河北卫视,https://live.tv.darwinchow.com/channel/hebeiweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
-河南卫视,https://live.tv.darwinchow.com/channel/henanweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
+河南卫视,https://live.tv.darwinchow.com/channel/henanweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 河南卫视,http://171.15.18.199:8180/TV00000000000000000016@HHZT
-河南卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226842/59814787.smil
-吉林卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226831/59814731.smil
 江西卫视,https://live.tv.darwinchow.com/channel/jiangxiweishi?livekey=01WVAWIUhZtD6WsM2Glx36ENBAwzRIPfnGXif&userkey=c34a17e0469d52f6
-江西卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226656/46275837.smil
 辽宁卫视,https://live.tv.darwinchow.com/channel/liaoningweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-辽宁卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226649/46098370.smil
-内蒙古卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225591/iptv7986.smil
-宁夏卫视,https://live.tv.darwinchow.com/channel/ningxiaweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-宁夏卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225747/iptv101619.smil
+宁夏卫视,https://live.tv.darwinchow.com/channel/ningxiaweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 青海卫视,https://live.tv.darwinchow.com/channel/qinghaiweishi?livekey=01WVAWIUhZtD6WsM2Glx36ENBAwzRIPfnGXif&userkey=c34a17e0469d52f6
-青海卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225589/iptv7985.smil
-山东卫视,https://live.tv.darwinchow.com/channel/shandongweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-山东卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225919/10000100000000060000000000811554_0.smil
-山西卫视,https://live.tv.darwinchow.com/channel/shanxiweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-山西卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225551/iptv7966.smil
-陕西卫视,https://live.tv.darwinchow.com/channel/shaanxiweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-陕西卫视,http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
-陕西卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225755/iptv101726.smil
+山东卫视,https://live.tv.darwinchow.com/channel/shandongweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
+山西卫视,https://live.tv.darwinchow.com/channel/shanxiweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
+陕西卫视,https://live.tv.darwinchow.com/channel/shaanxiweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 四川卫视,https://live.tv.darwinchow.com/channel/sichuanweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-四川卫视,http://1b6467f415.iok.la:9931/tsfile/live/1072_1.m3u8
-四川卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226693/51813384.smil
-三沙卫视,https://live.tv.darwinchow.com/channel/sanshaweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-三沙卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221226984/85722645.smil
+三沙卫视,https://live.tv.darwinchow.com/channel/sanshaweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 天津卫视,https://live.tv.darwinchow.com/channel/tianjinweishi?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-天津卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226652/46098366.smil
-西藏卫视,https://live.tv.darwinchow.com/channel/xizangweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-西藏卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221227276/123649585.smil
-新疆卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221227273/123649589.smil
-云南卫视,https://live.tv.darwinchow.com/channel/yunnanweishi?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-云南卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226937/72640386.smil
+西藏卫视,https://live.tv.darwinchow.com/channel/xizangweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
+云南卫视,https://live.tv.darwinchow.com/channel/yunnanweishi?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 
 🚂┃湾区频道,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 翡翠台,http://8.138.7.223/tv/hot.php?id=68
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 凤凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
-凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 凤凰香港,http://bziyunshao.synology.me:8890/bysid/85
 凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191
+凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 寰宇,http://iptv.4666888.xyz/iptv.php?id=20293
 tvbs,http://iptv.4666888.xyz/iptv.php?id=20188
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://121.37.185.74:18180/TV00000000000000000054@HHZT
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
+凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 PopC,https://live.tvfix.org/live/popc/index.m3u8
 明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
 TVBS新闻,http://iptv.4666888.xyz/iptv.php?id=20168
@@ -193,12 +137,13 @@ TVBS亚洲,http://iptv.4666888.xyz/iptv.php?id=20190
 BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 Global Trekker,http://iptv.4666888.xyz/iptv.php?id=20271
 Love Nature,https://live.tvfix.org/live/lovenature/index.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Love Nature,https://yang-1989.eu.org/live/Love-Nature
 
 🅱┃台湾频道,#genre#
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 年代新闻,http://iptv.4666888.xyz/iptv.php?id=20178
 MTV Live,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
-美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
 美亚电影,http://iptv.4666888.xyz/iptv.php?id=20239
 
 📚┃浙江频道,#genre#
@@ -211,14 +156,18 @@ MTV Live,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+杭州综合,http://120.55.49.231:3095/rtp/233.50.201.173:5140
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 嘉兴公共,http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7f7f0267946e880ec46ce3d57ec9e-0-eb04d7f7e549054293604b04150cefa1
 嘉兴文化影视,http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d
+丽水新闻,http://120.55.49.231:3095/rtp/233.50.201.162:5140
 湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 湖州新闻综合,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
@@ -231,40 +180,47 @@ MTV Live,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
-龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
-龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
+龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
-萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 海宁新闻综合,http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
 松阳新闻综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
-普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 新昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed[浙江]洞头综合频道
 庆元新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
@@ -276,7 +232,6 @@ MTV Live,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 
 📚┃北京频道,#genre#
-北京卡酷少儿,rtsp://115.153.247.80/PLTV/88888888/224/3221227076/108965819.smil
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
@@ -286,8 +241,8 @@ MTV Live,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
 
 📚┃上海频道,#genre#
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-哈哈炫动,https://live.tv.darwinchow.com/channel/hahaxuandong?livekey=01WVAWIUhZtD6WsM2HNJQE8YN6rjN0V0oy0IY&userkey=c34a17e0469d52f6
-哈哈炫动,rtsp://115.153.247.80/PLTV/88888888/224/3221225583/iptv7982.smil
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
+哈哈炫动,https://live.tv.darwinchow.com/channel/hahaxuandong?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
@@ -297,86 +252,61 @@ MTV Live,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
 📚┃重庆频道,#genre#
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 铜梁综合,https://tlpc01.cqliving.com/ch1.m3u8
-重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
-重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
-荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
+重庆汽摩,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8?key=txiptv
+重庆汽摩,http://222.179.155.21:1935/ch1.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
-江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 武隆综合,https://yypull.cbg.cn/applive/wltvzh/playlist.m3u8
 垫江综合,http://play-sh.quklive.com/live/1672366847646284.m3u8
 垫江综合,http://8.138.7.223/tv/quklive.php
 万州综合,http://live.xmcdn.com/live/1678/64.m3u8
 
 🎬┃电影频道,#genre#
-CHC家庭影院,rtsp://115.153.247.80/PLTV/88888888/224/3221226959/86128800.smil
 CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002
-CHC动作电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226992/86128817.smil
 动作电影,https://live.tv.darwinchow.com/channel/newtvdongzuodianying?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 黑莓电影,https://live.tv.darwinchow.com/channel/heimeidianying?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-经典电影,rtsp://115.153.247.80/PLTV/88888888/224/3221227010/86440860.smil
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://iptv.4666888.xyz/iptv.php?id=20083
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 💰┃付费频道,#genre#
-央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
 风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
-风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
-第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
-风云剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
-怀旧剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226996/86128881.smil
 女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
-女性时尚,rtsp://115.153.247.80/PLTV/88888888/224/3221226998/86128978.smil
 高尔夫网球,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
-高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
-风云足球,rtsp://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil
-电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
-世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
-兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
 
 🎥┃咪咕直播,#genre#
 
 🏀┃体育频道,#genre#
-爱体育,rtsp://115.153.247.80/PLTV/88888888/224/3221227012/86440946.smil
-超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
 精品体育,https://live.tv.darwinchow.com/channel/newtvjingpintiyu?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
+江苏体育,http://121.226.22.124:55555/rtp/239.49.8.117:8000
 江苏体育,http://180.105.65.225:9981/rtp/239.49.8.117:8000
 江苏体育,http://180.127.140.151:19999/rtp/239.49.8.117:8000
-江苏体育,http://121.226.22.124:55555/rtp/239.49.8.117:8000
 睛彩篮球,https://live.tv.darwinchow.com/channel/jingcailanqiu?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
 快乐垂钓,https://live.tv.darwinchow.com/channel/kuailechuijiao?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
 快乐垂钓,http://111.196.133.168:8012/rtp/239.3.1.164:8001
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
-快乐垂钓,rtsp://115.153.247.80/PLTV/88888888/224/3221226834/59781974.smil
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 📚┃动画频道,#genre#
 少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
-新动漫,https://live.tv.darwinchow.com/channel/xindongman?livekey=01WVAWIUhZtD6WsM2HVoPIqbpg8hYSYasXJTA&userkey=c34a17e0469d52f6
-新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
+新动漫,https://live.tv.darwinchow.com/channel/xindongman?livekey=01WVAWIUhZtD6WsM2Hg4TLD9ZhKOUQtsI7N0x&userkey=c34a17e0469d52f6
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
 优漫卡通,https://live.tv.darwinchow.com/channel/youmankatong?livekey=01WVAWIUhZtD6WsM2HNJQE8YN6rjN0V0oy0IY&userkey=c34a17e0469d52f6
-金鹰卡通,http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,rtsp://115.153.247.80/PLTV/88888888/224/3221226972/80382319.smil
 黑莓动画,https://live.tv.darwinchow.com/channel/heimeidonghua?livekey=01WVAWIUhZtD6WsM2GP8awmMpIISMau1AYESP&userkey=c34a17e0469d52f6
-七龙珠,http://iptv.jxpan.vip:18888/aio/huya/11601966
-七龙珠,http://www.douzhicloud.site:35455/huya/11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎵┃音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-音乐现场,rtsp://115.153.247.80/PLTV/88888888/224/3221227001/86441055.smil
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
-潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛┃经典剧场,#genre#
-射雕英雄传,http://iptv.jxpan.vip:18888/aio/huya/23824164
+笑傲江湖,http://iptv.jxpan.vip:18888/aio/huya/26355790
