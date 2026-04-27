@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-04-27 06:41:59,https://iptv.catvod.com/catvod
+2026-04-27 19:49:08,https://iptv.catvod.com/catvod
 
 🍄┃广东频道,#genre#
 广东珠江,https://iptv.catvod.com/catvod
+广东卫视,http://153.0.171.163:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 超级综艺,http://111.43.126.240:9003/hls/87/index.m3u8
 
 🍓┃央视频道,#genre#
@@ -12,6 +13,7 @@ CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=298b4017e36b3f5691c279938f745194
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
@@ -22,15 +24,20 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 🐧┃卫视频道,#genre#
 东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
-湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
+安徽卫视,http://153.0.171.163:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://153.0.171.163:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://43.156.8.127:5050/ysp?id=2024171303&pid=600002505&q=fhd
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 🚂┃湾区频道,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
+凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 公视,http://211.72.174.95:8116/0.ts
 中视,http://85.237.207.150:50007/of-4gtv-4gtv040/index.m3u8
@@ -41,22 +48,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 🅱┃台湾频道,#genre#
-TVBS News 新闻台,https://live.catvod.com/catvod_com.php?id=tvbs_n&token=585972d4db179b145d87fb7df42b7cec41b5cdfdf49edf3872d7d16452c036c8%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-中天新闻 HD,https://live.catvod.com/catvod_com.php?id=ctinews&token=18a7243aafb815e571401120f01e09329eb6d94cf9e2ed31a237894b50676277%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-中天亚洲台,https://live.catvod.com/catvod_com.php?id=ctiasia_twn&token=139d6ad4a26fbd3cb640acdd3e96ca84fb4757a1ab13f8159e5598a463236317%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-台视综合台,https://live.catvod.com/catvod_com.php?id=ttvzhonghe&token=8c15675a6d117f2eb959568f16929664f9561174982e44b9c0910e1e83d7cb67%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-民视 HD,https://live.catvod.com/catvod_com.php?id=ftvhd_taiwan&token=eaba948822c629f59b9b70cf5969baa97cac639548d06b92a0123ce802460a00%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
 寰宇财经,http://85.237.207.150:50007/of-4gtv-4gtv158/index.m3u8
-大爱1台,https://live.catvod.com/catvod_com.php?id=daai_twn&token=bf4015a6529f7db5c37e05504d93485d2fcce5399694e59b84e5be517d48b3ac%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-非凡新闻台,https://live.catvod.com/catvod_com.php?id=feifannews_twn&token=68635b3d2c4ad2aed615bc147a214b5a2489f291244966f81fa5c6a27f07412e%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-龙华经典台,https://live.catvod.com/catvod_com.php?id=lunghuajingdian_twn&token=765c1ec9b4797011bc8da40474a053c3acf9174ffd02beb9ede7437a8af4ecbc%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-靖天国际台,https://live.catvod.com/catvod_com.php?id=jingtianintl_twn&token=23a22ceb3f81bf78fdf99ada7f6cb69f3737f54af343e641b2d74915c82632cb%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-大爱2台,https://live.catvod.com/catvod_com.php?id=daai2_twn&token=3e090f3a9711f76e31872c3fbea04f6222469ac8380db331bc0313584f4feb87%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-靖天卡通台,https://live.catvod.com/catvod_com.php?id=jingtiancartoon_twn&token=94d6f2d7faecf0dfa5131b1bcc6b9fe9b85371e01efb6803aa47c0795b0896ac%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-卫视电影台,https://live.catvod.com/catvod_com.php?id=weishimovie_twn&token=092813d4cac36bb1a6969e93f2be1b54d7318daf92fc24b97a575de6f53d778b%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-爱尔达影剧台,https://live.catvod.com/catvod_com.php?id=eltayingju_twn&token=f0c151ab71c9fbb3d92821ec0ea62eb48171b19a3b5662e1600a9d78824a9ff1%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-爱尔达综合台,https://live.catvod.com/catvod_com.php?id=eltazonghe_twn&token=52ea7c5fb8aacc94ae6043e550fcbc6c4eae7ae20a3b518cc028de9f5d335c4a%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
-AFC 亚洲旅游台,https://live.catvod.com/catvod_com.php?id=asiatravel_twn&token=c3c46273dd9beb62f21ffdeae978cd294101b1fa4410086ac9877aeefdf97cc7%3A1758968289%3ANjQuMjM2LjIwMC4xMTU%3D
 
 📚┃浙江频道,#genre#
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -75,21 +67,21 @@ AFC 亚洲旅游台,https://live.catvod.com/catvod_com.php?id=asiatravel_twn&tok
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
-龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
+龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
-萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 海宁新闻综合,http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 松阳新闻综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
-普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
@@ -100,7 +92,6 @@ AFC 亚洲旅游台,https://live.catvod.com/catvod_com.php?id=asiatravel_twn&tok
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
-余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
@@ -122,6 +113,7 @@ AFC 亚洲旅游台,https://live.catvod.com/catvod_com.php?id=asiatravel_twn&tok
 📚┃重庆频道,#genre#
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 铜梁综合,https://tlpc01.cqliving.com/ch1.m3u8
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
@@ -132,8 +124,8 @@ AFC 亚洲旅游台,https://live.catvod.com/catvod_com.php?id=asiatravel_twn&tok
 重庆时尚购物,http://183.220.107.138:4022/rtp/239.10.0.169:5140
 
 🎬┃电影频道,#genre#
-IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 
 💰┃付费频道,#genre#
 
@@ -145,6 +137,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 📚┃动画频道,#genre#
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
+金鹰卡通,http://101.66.199.174:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.199.55:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎵┃音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
