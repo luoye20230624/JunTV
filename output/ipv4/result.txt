@@ -1,33 +1,24 @@
 🕘️更新时间,#genre#
-2026-05-12 20:02:41,https://iptv.catvod.com/catvod
+2026-05-13 07:05:32,https://iptv.catvod.com/catvod
 
 🍄┃广东频道,#genre#
 广东珠江,https://iptv.catvod.com/catvod
 超级综艺,http://111.43.126.240:9003/hls/87/index.m3u8
 
 🍓┃央视频道,#genre#
-CCTV-1,http://192.151.150.154/live/cctv1hd.m3u8
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
-CCTV-2,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8
-CCTV-9,http://183.223.157.33:9901/tsfile/live/0009_1.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=73b69ea221be0bd00d6e465f10653101
+CCTV-1,http://192.151.150.154/live/cctv1hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://183.223.157.33:9901/tsfile/live/0010_1.m3u8
-CCTV-13,http://183.223.157.33:9901/tsfile/live/0013_1.m3u8
-CETV-2,https://iptv.catvod.com/catvod?id=CETV2&line=5
 
 🐧┃卫视频道,#genre#
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-东方卫视,http://101.66.198.233:9901/tsfile/live/0018_1.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-辽宁卫视,http://101.66.198.233:9901/tsfile/live/0121_1.m3u8
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
-四川卫视,http://101.66.198.102:9901/tsfile/live/0123_1.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 🚂┃湾区频道,#genre#
@@ -38,9 +29,7 @@ CETV-2,https://iptv.catvod.com/catvod?id=CETV2&line=5
 中视,http://211.72.174.95:8113/0.ts
 华视,http://211.72.174.95:8114/0.ts
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-BBC NEWS,http://104.250.145.6/livehttpplay?channel_id=16531
-BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 
 🅱┃台湾频道,#genre#
 
@@ -62,8 +51,8 @@ BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 浙江遂昌,http://play-sh13.quklive.com/live/1708426592499070.m3u8?auth_key=2028414342-e92bda8423ad478c987a8b7ae82abe0e-0-c616f7fabb9675e1ed1d84d9edae7e07
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
@@ -77,8 +66,8 @@ BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 海宁新闻综合,http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 松阳新闻综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
-普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
@@ -86,8 +75,8 @@ BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 嵊泗新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
@@ -106,9 +95,12 @@ BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 📚┃重庆频道,#genre#
+璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 铜梁综合,https://tlpc01.cqliving.com/ch1.m3u8
-铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
+重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
