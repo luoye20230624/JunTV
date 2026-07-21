@@ -1,54 +1,47 @@
 🕘️更新时间,#genre#
-2026-07-21 19:54:03,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+2026-07-22 07:01:48,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 
 🍄┃广东频道,#genre#
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-广东卫视,http://125.43.247.15:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://drive.mxmy.net:8888/udp/239.3.1.134:8020
 
 🍓┃央视频道,#genre#
 CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 CCTV-2,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
-CCTV-2,http://125.43.247.15:9901/tsfile/live/1008_1.m3u8
+CCTV-2,http://125.43.247.15:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
-CCTV-5,http://125.43.247.15:9901/tsfile/live/1010_1.m3u8
+CCTV-5,http://125.43.247.15:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://drive.mxmy.net:8888/udp/239.3.1.174:8001
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-6,http://125.43.247.15:9901/tsfile/live/1011_1.m3u8
+CCTV-6,http://125.43.247.15:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
-CCTV-7,http://125.43.247.15:9901/tsfile/live/1006_1.m3u8
-CCTV-8,http://125.43.247.15:9901/tsfile/live/1007_1.m3u8
+CCTV-7,http://125.43.247.15:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://125.43.247.15:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-CCTV-10,http://125.43.247.15:9901/tsfile/live/1013_1.m3u8
+CCTV-10,http://125.43.247.15:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
-CCTV-11,http://125.43.247.15:9901/tsfile/live/1014_1.m3u8
+CCTV-11,http://125.43.247.15:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://drive.mxmy.net:8888/udp/239.3.1.64:8124
 CCTV-13,http://drive.mxmy.net:8888/udp/239.3.1.124:8128
-CCTV-13,http://125.43.247.15:9901/tsfile/live/1016_1.m3u8
+CCTV-13,http://125.43.247.15:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
-CCTV-14,http://125.43.247.15:9901/tsfile/live/1017_1.m3u8
-CCTV-15,http://125.43.247.15:9901/tsfile/live/1018_1.m3u8
+CCTV-14,http://125.43.247.15:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 
 🐧┃卫视频道,#genre#
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://125.43.247.15:9901/tsfile/live/1021_1.m3u8
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
-江苏卫视,http://125.43.247.15:9901/tsfile/live/1030_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
-湖北卫视,http://125.43.247.15:9901/tsfile/live/1033_1.m3u8
-黑龙江卫视,http://125.43.247.15:9901/tsfile/live/1024_1.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
 安徽卫视,http://125.43.247.15:9901/tsfile/live/1037_1.m3u8
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
-重庆卫视,http://125.43.247.15:9901/tsfile/live/1025_1.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
 东南卫视,http://125.43.247.15:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -57,18 +50,13 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 贵州卫视,http://125.43.247.15:9901/tsfile/live/1038_1.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
-河北卫视,http://125.43.247.15:9901/tsfile/live/1032_1.m3u8
-河南卫视,http://125.43.247.15:9901/tsfile/live/1019_1.m3u8
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
 江西卫视,http://drive.mxmy.net:8888/udp/239.3.1.123:8164
-江西卫视,http://125.43.247.15:9901/tsfile/live/1034_1.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 辽宁卫视,http://drive.mxmy.net:8888/udp/239.3.1.210:8056
 辽宁卫视,http://125.43.247.15:9901/tsfile/live/1022_1.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
-山东卫视,http://125.43.247.15:9901/tsfile/live/1023_1.m3u8
-四川卫视,http://125.43.247.15:9901/tsfile/live/1039_1.m3u8
 云南卫视,http://125.43.247.15:9901/tsfile/live/1029_1.m3u8
 
 🚂┃湾区频道,#genre#
@@ -85,8 +73,8 @@ Love Nature,http://rihou.cc:555/tv/LoveNature
 
 📚┃浙江频道,#genre#
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n
-浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
@@ -103,13 +91,12 @@ Love Nature,http://rihou.cc:555/tv/LoveNature
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
+龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
@@ -147,8 +134,10 @@ Love Nature,http://rihou.cc:555/tv/LoveNature
 📚┃重庆频道,#genre#
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 铜梁综合,https://tlpc01.cqliving.com/ch1.m3u8
-铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
+重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
@@ -167,8 +156,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🎥┃咪咕直播,#genre#
 
 🏀┃体育频道,#genre#
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
