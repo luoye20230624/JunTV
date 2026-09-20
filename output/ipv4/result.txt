@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-09-19 21:48:12,http://173.208.234.146/live/gdzj.m3u8
+2026-09-20 08:00:11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
 
 🍄┃广东频道,#genre#
-广东珠江,http://173.208.234.146/live/gdzj.m3u8
 广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
+广东珠江,http://173.208.234.146/live/gdzj.m3u8
 深圳卫视,http://drive.mxmy.net:8888/udp/239.3.1.134:8020
 
 🍓┃央视频道,#genre#
@@ -16,8 +16,8 @@ CCTV-12,http://drive.mxmy.net:8888/udp/239.3.1.64:8124
 CCTV-13,http://drive.mxmy.net:8888/udp/239.3.1.124:8128
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
-CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
 🐧┃卫视频道,#genre#
@@ -38,6 +38,7 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -48,23 +49,20 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 公视,http://31.43.191.125:8080/restream/restream/34891
 公视,http://211.72.174.95:8116/0.ts
 民视,http://74.91.26.218:82/live/ftv.m3u8
-中视,http://31.43.191.125:8080/restream/restream/34897
 中视,http://211.72.174.95:8113/0.ts
 华视,http://173.208.234.146/live/cts.m3u8
 华视,http://211.72.174.95:8114/0.ts
-华视,http://31.43.191.125:8080/restream/restream/34887
-台视,http://173.208.234.146/live/ttvzh.m3u8
 台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 爆谷台,http://j.s.bkpcp.top/js/nowbgt
+纬来育乐,http://31.43.191.125:8080/restream/restream/34849
 BBC NEWS,http://31.43.191.125:8080/restream/restream/34578
 Bloomberg TV,http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 Love Nature,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 
 🅱┃台湾频道,#genre#
-CINEMAX,http://31.43.191.125:8080/restream/restream/34928
+CINEMAX,http://31.43.191.125:8080/restream/restream/34572
 龙华偶像,http://31.43.191.125:8080/restream/restream/34830
-年代新闻,http://31.43.191.125:8080/restream/restream/34869
 博斯无限,http://31.43.191.125:8080/restream/restream/34885
 MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 星卫电影,http://31.43.191.125:8080/restream/restream/34788
@@ -109,8 +107,8 @@ MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
@@ -122,6 +120,7 @@ MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 📚┃上海频道,#genre#
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 哈哈炫动,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd
 都市剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001203/index.m3u8
@@ -131,6 +130,8 @@ MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 金山电视台,http://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 📚┃重庆频道,#genre#
+璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
@@ -140,10 +141,8 @@ MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 重庆时尚购物,http://183.220.107.138:4022/rtp/239.10.0.169:5140
 
 🎬┃电影频道,#genre#
-靖天映画,http://31.43.191.125:8080/restream/restream/34838
+纬来电影,http://31.43.191.125:8080/restream/restream/34852
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
-龙祥电影,http://31.43.191.125:8080/restream/restream/34825
-东森洋片,http://31.43.191.125:8080/restream/restream/34904
 
 💰┃付费频道,#genre#
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin
@@ -151,9 +150,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 第一剧场,https://live.264788.xyz/channel/diyijuchang
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang
 怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang
-女性时尚,http://119.129.172.165:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-女性时尚,http://119.129.172.194:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-女性时尚,http://119.129.172.161:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8
 兵器科技,https://live.264788.xyz/channel/bingqikeji
 
@@ -161,8 +157,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀┃体育频道,#genre#
 天津体育,http://168250.xyz:1111/rtp/239.5.1.3:5000
-天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
+天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
 📚┃动画频道,#genre#
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
@@ -170,6 +166,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🎵┃音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛┃经典剧场,#genre#
